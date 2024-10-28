@@ -21,5 +21,3 @@ jobs:
       - name: Force Failure
         run: (exit 1)
 
-- name: Force Failure
-  run: (exit 1)
